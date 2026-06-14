@@ -32,17 +32,17 @@
 
 ### Week 1 — YYYY-MM-DD
 
-**Attended this week's meeting:** Yes / No
+**Attended this week's meeting:** Yes
 
 **Progress this week**
 - Set up repository from the FURP template.
-- _..._
+- Paper reading for VLN & RL Navigation
 
 **Challenges & blockers**
-- _..._
+- No cuda environment & linux os
 
 **Next steps**
-- _..._
+- CUDA environment: Work with team / in lab
 
 **Hours spent (optional):**
 
