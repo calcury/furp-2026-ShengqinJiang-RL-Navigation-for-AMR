@@ -53,6 +53,8 @@
 - NeuPAN baseline reproduction and complex scene testing
 - Paper reading for feature and problem of RL Navigation
 
+![u_test](./img/u_test.png)
+
 **Challenges & blockers**
 - No exact testing data in the paper
 - 3D simulation environment is hard to setup
