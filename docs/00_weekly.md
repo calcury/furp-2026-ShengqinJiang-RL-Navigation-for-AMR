@@ -30,7 +30,7 @@
 
 <!-- =================  YOUR ENTRIES BELOW  ================= -->
 
-### Week 1 — YYYY-MM-DD
+### Week 1 — 2026-06-17
 
 **Attended this week's meeting:** Yes
 
@@ -43,6 +43,22 @@
 
 **Next steps**
 - CUDA environment: Work with team / in lab
+
+### Week 2 — 2026-06-24
+
+**Attended this week's meeting:** Yes
+
+**Progress this week**
+- Setup ir-sim simulation environment
+- NeuPAN baseline reproduction and complex scene testing
+- Paper reading for feature and problem of RL Navigation
+
+**Challenges & blockers**
+- No exact testing data in the paper
+- 3D simulation environment is hard to setup
+
+**Next steps**
+- Try RL training steps and 3D simulation environment setup
 
 **Hours spent (optional):**
 
