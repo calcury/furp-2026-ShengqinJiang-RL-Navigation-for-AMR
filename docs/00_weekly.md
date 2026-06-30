@@ -65,3 +65,26 @@
 **Hours spent (optional):**
 
 **Links (optional):**
+
+### Week 2 — 2026-06-24
+
+**Attended this week's meeting:** Yes
+
+**Progress this week**
+- Complete the assembly of the robot
+- Install the required dependencies and perform firmware burning
+- Real testing of NeuPAN navigation algorithm
+
+![robot](./img/robot.png)
+
+**Challenges & blockers**
+- The official tutorial is only available for the ROS1
+- Lack of various parts
+
+**Next steps**
+- Try to create some structure and test
+
+**Hours spent (optional):**
+
+**Links (optional):**
+
