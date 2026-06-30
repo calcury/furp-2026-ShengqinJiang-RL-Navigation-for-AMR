@@ -66,7 +66,7 @@
 
 **Links (optional):**
 
-### Week 2 — 2026-06-24
+### Week 3 — 2026-06-30
 
 **Attended this week's meeting:** Yes
 
